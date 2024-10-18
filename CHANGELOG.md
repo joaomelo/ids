@@ -1,5 +1,7 @@
 
 
+## [0.1.1](https://github.com/joaomelo/ids/compare/v0.1.0...v0.1.1) (2024-10-18)
+
 ## 0.1.0 (2024-10-12)
 
 
